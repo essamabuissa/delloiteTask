@@ -1,0 +1,22 @@
+{
+  "hello": "مرحبا",
+  "arabic": "عربي",
+  "english": "انجليزي",
+  "email": "البريد الإلكتروني",
+  "phoneNumber": "رقم الهاتف",
+  "name": "الاسم الكامل",
+  "dob": "تاريخ الميلاد",
+  "submit": "ارسال",
+  "logout": "تسجيل خروج",
+  "nameRequired": "الاسم مطلوب",
+  "emailRequired": "البريد الإلكتروني مطلوب",
+  "invalidEmail": "البريد الإلكتروني خاطئ",
+  "phoneNumberRequired": "رقم الهاتف مطلوب",
+  "dobRequired": "تاريخ الميلاد مطلوب",
+  "pleaseRegister": "الرجاء إنشاء حساب",
+  "register": "التسجيل",
+  "home": "الصفحة الرئيسية",
+  "more": "المزيد",
+  "welcome": "اهلاً",
+  "splash": "صفحة البداية"
+}

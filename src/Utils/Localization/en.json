@@ -1,0 +1,22 @@
+{
+  "hello": "Hello",
+  "arabic": "Arabic",
+  "english": "English",
+  "email": "Email Address",
+  "phoneNumber": "Phone Number",
+  "name": "Full Name",
+  "dob": "Date of birth",
+  "submit": "Submit",
+  "logout": "Log out",
+  "nameRequired": "Name is required",
+  "emailRequired": "Email is required",
+  "invalidEmail": "Invalid email",
+  "phoneNumberRequired": "Phone number is required",
+  "dobRequired": "Date of birth is required",
+  "pleaseRegister": "Please register ",
+  "register": "Register",
+  "home": "Home",
+  "more": "More",
+  "welcome": "Welcome",
+  "splash": "Splash"
+}
